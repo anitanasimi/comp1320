@@ -1,4 +1,5 @@
 let daysInWeek = ["Sat", "Sun", "Mon", "Tue", "Wed", "Thu", "Fri"];
+// this is a comment
 
 function isLeapYear(year){
     if (year % 4 == 0 && year % 100 != 0){
